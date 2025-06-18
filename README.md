@@ -1,6 +1,6 @@
 # 🧾Recipe Page
 ### 📌 Very Simple Challenge by Front-End Mentor
 ## 🖥️Desktop Design
-![desktop-design](https://github.com/user-attachments/assets/456b3ab5-8a3c-4247-851e-680ae73294e2)
+![desktop-design](https://github.com/user-attachments/assets/271c723d-3414-439c-84d9-0b6eff77455b)
 ## 📱Mobile Design
-![mobile-design](https://github.com/user-attachments/assets/ad30e862-ad23-48c4-a6c2-7c3b2db9b2fb)
+![mobile-design](https://github.com/user-attachments/assets/fd76a49c-7fd6-4e48-ae22-b5389cb80068)
